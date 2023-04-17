@@ -1,0 +1,11 @@
+{
+  "tShirts": {
+    "S": 1,
+    "M": 1,
+    "L": 0,
+    "XL": 1,
+    "XXL": 9,
+    "XXXL": 1
+  },
+  "participants": [["S"], ["M", "L"], ["L", "XL"], ["XXXL"]]
+}
